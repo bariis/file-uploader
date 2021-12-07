@@ -1,0 +1,8 @@
+module github.com/bariis/file-uploader-cli
+
+go 1.16
+
+require (
+	github.com/putdotio/go-putio/putio v0.0.0-20200123120452-16d982cac2b8 // indirect
+	golang.org/x/oauth2 v0.0.0-20211104180415-d3ed0bb246c8 // indirect
+)
