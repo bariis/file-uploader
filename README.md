@@ -59,10 +59,11 @@ I did not upload the `images` folder to GitHub, since, it will take too much tim
 1. Clone the repository into your local environment
 
 ```
-git clone <url>
+git clone https://github.com/bariis/file-uploader.git
 cd file-uploader
 ```
 2. `image` folde provided by `put.io` should be copied inside the directory. The structure of the directory should be as below image.
+
 ![directory](./ss/dir.png)
 
 3. Build the docker image based on dockerfile.
